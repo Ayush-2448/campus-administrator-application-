@@ -33,7 +33,6 @@ The system simplifies student registration, enhances faculty workflows, manages 
 ### 🗂️ Record & Data Management
 - Centralized storage of academic and administrative data  
 - Secure access with role-based permissions  
-- Automated backups *(optional)*  
 
 <img width="1896" height="892" alt="image" src="https://github.com/user-attachments/assets/b6fc26cb-1d1e-4146-800c-7c496f9fb1ab" />
 
@@ -47,7 +46,9 @@ The system simplifies student registration, enhances faculty workflows, manages 
 - Admin dashboard with KPIs  
 - Student performance insights  
 - Faculty activity analytics  
-- Downloadable reports (PDF/Excel)  
+- Downloadable reports (PDF)
+- <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/29304e59-41a1-4d5e-9ffe-24629a765cc2" />
+
 
 ### 🔐 Security
 - Role-based access control (Admin / Faculty / Student)  
